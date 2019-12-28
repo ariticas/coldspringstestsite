@@ -1,0 +1,50 @@
+// Place all the styles related to the AboutUsDD controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.float-left {
+    float: left; 
+    margin-right: 50px;
+
+    
+}
+
+.schoolimage{
+margin-top:30px;
+}
+
+.photo-text-container {
+    margin: auto;
+    max-width: 1250px;
+}
+
+.bottom-text-container {
+    border-top: solid lightgray 1px;
+    border-bottom: solid lightgray 1px;
+    padding: 30px; 
+    background-color: rgb(236, 236, 236);
+    font-family: 'Roboto';
+    font-size: 17px;
+    line-height: 30px;
+    margin-bottom: 4em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    
+}
+
+.image-text {
+    margin-right: 50px; 
+    text-align: justify;
+    font-family: 'Roboto';
+    font-size: 1em;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 1.6em;
+}

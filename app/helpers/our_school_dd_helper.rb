@@ -1,0 +1,2 @@
+module OurSchoolDdHelper
+end
